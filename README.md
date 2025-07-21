@@ -35,7 +35,7 @@ This project demonstrates how to deploy a **Serverless Feedback API** using **AW
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/serverless-feedback-api.git
+   git clone https://github.com/credchampion/serverless-feedback-api.git
    cd serverless-feedback-api
 terraform init
 terraform plan
