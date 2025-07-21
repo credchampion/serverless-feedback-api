@@ -40,3 +40,10 @@ This project demonstrates how to deploy a **Serverless Feedback API** using **AW
 terraform init
 terraform plan
 terraform apply
+
+Author
+
+Adeoye Ologunmeta
+Cloud Engineer | Skilled in AWS, Terraform, and Serverless Architectures
+[
+](https://www.linkedin.com/in/adeoyeologunmeta-724b57218)
